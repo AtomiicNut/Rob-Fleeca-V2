@@ -1,0 +1,8 @@
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\bin\Debug\Rob_Fleeca_V2.dll
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\bin\Debug\Rob_Fleeca_V2.pdb
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\obj\Debug\Rob_Fleeca_V2.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\obj\Debug\Rob_Fleeca_V2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\obj\Debug\Rob_Fleeca_V2.csproj.CopyComplete
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\obj\Debug\Rob_Fleeca_V2.dll
+C:\Users\Daniel\source\repos\Rob_Fleeca_V2\Rob_Fleeca_V2\obj\Debug\Rob_Fleeca_V2.pdb
